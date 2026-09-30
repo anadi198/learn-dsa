@@ -1,8 +1,0 @@
-runner/.dsalab-token
-.build/
-scratch/
-node_modules/
-.DS_Store
-Thumbs.db
-.claude/
-sync-config.js
